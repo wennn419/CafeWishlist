@@ -1,0 +1,9 @@
+{
+    // .vscode/extensions.json
+    // When students open this folder, VS Code suggests installing these.
+    "recommendations": [
+        "ms-azuretools.vscode-docker",   // manage containers from the sidebar
+        "bmewburn.vscode-intelephense-client",  // PHP autocomplete & error checking
+        "esbenp.prettier-vscode"         // tidy formatting for HTML/CSS/JS
+    ]
+}
